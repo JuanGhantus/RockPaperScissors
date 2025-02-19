@@ -6,6 +6,11 @@ This project is a more complex version of the game Rock Paper Scissors, adding L
 
 <p align="center">
 Rock Paper Scissors Lizard Spock <br/>
-<img src="" height="80%" width="80%" alt="Rock Paper Scissors Lizard Spock"/>
+<img src="https://i.imgur.com/i6aogib.png" height="80%" width="80%" alt="Rock Paper Scissors Lizard Spock"/>
+<br/><br/>
+
+<p align="center">
+Rock Paper Scissors Lizard Spock - Win <br/>
+<img src="https://i.imgur.com/jFzng2L.png" height="80%" width="80%" alt="Rock Paper Scissors Lizard Spock Confetti"/>
 <br/>
 
